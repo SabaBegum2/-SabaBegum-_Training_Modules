@@ -1,0 +1,14 @@
+#<Saba Begum> Module Two
+
+##Answers:
+
+1. The general syntex of the current working directory is pwd[-LP].
+2. Before creating a new directory, use the "pwd" command to understand where you are in the filesystem. 
+you can check for files with the ls command. You can create a new directory using the command "mkdir". the basic systex for using the command is mkdir{desired name of the directory}.
+3. The command that is used to list files is "ls". 
+4. You can use the command "cd" to navigate the parent directory in the Linux terminal.
+5. You can use the "cp" command for copying files from one location to another. The sytex of the commandn is "cp[...file/directory-sources].
+
+
+
+
