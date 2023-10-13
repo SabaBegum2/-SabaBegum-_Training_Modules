@@ -1,0 +1,20 @@
+#include <iostream>
+
+int main() {
+    float num1, num2, num3, num4;//num1, num2, num3, and num4 is set to data type float. Float returns decimals. 
+
+    std::cout << "Enter the first number: ";//this is asking the user to enter the first number.
+    std::cin >> num1;//this takes in the first number that is entered by the user. 
+    std::cout << "Enter the second number: ";//this is asking the user for the second number. 
+    std::cin >> num2;//this takes in the second number that is entered by the number. 
+    std::cout << "Enter the third number: ";//this is asking the user for the third number.
+    std::cin >> num3;// this takes in the third number that is entered by the user.
+    std::cout << "Enter the fourth number: ";//asking the user for the fourth number.
+    std::cin >> num4;//takes in the forth number that is entered by the user.
+
+    float average = (num1 + num2 + num3 + num4) / 4;//this is the formula to find the average. The average is adding the 4 numbers and diving it by 4.
+
+    std::cout << "The average of " << num1 << ", " << num2 << ", " << num3 << ", and " << num4 << " is: " << std::fixed << std::setprecision(2) << average << std::endl;
+    //this is outputing the average. 
+    return 0;
+}
