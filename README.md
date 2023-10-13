@@ -21,3 +21,21 @@ e)A pull request is a way for developers to suggest changes to a hosted code rep
 
 https://youtu.be/QU9c0053UAU?si=JBUux0dEEkhGOCS-
 
+
+
+
+
+# <Saba Begum> Module Two
+
+## Answers:
+
+1. The general syntex of the current working directory is pwd[-LP].
+2. Before creating a new directory, use the "pwd" command to understand where you are in the filesystem. 
+you can check for files with the ls command. You can create a new directory using the command "mkdir". the basic systex for using the command is mkdir{desired name of the directory}.
+3. The command that is used to list files is "ls". 
+4. You can use the command "cd" to navigate the parent directory in the Linux terminal.
+5. You can use the "cp" command for copying files from one location to another. The sytex of the commandn is "cp[...file/directory-sources].
+
+
+
+<img width="567" alt="Screen Shot 2023-09-22 at 4 49 22 PM 2" src="https://github.com/SabaBegum2/-SabaBegum-_Training_Modules/assets/145177924/6f6df385-2d39-426f-b0c8-d4a3ae96aa2b">
