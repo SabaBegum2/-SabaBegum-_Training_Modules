@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+    int num1,num2;//setting the data type to int. Int will return integers.
+    int sum;
+    cout<<"please enter 2 numbers"<<endl;//asking the user to enter 2 numbers.
+    cin>>num1>>num2;//takes in the first number as num1 and the second numbers as num2. 
+    sum=num1+num2;//this adds num1 and num 1. 
+    if(sum%2==0){//sum%2==0 determines if the number is even. This simply means if the reminder is 0, then the sum is even.
+        cout<<"the sum is even";
+    }
+    else if(sum%2!=0){//if the reminder is not 0 than that means the sum is odd.
+        cout<<"the sum is odd";
+    }
+    return 0;
+}
