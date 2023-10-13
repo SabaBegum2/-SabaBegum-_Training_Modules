@@ -21,3 +21,16 @@ e)A pull request is a way for developers to suggest changes to a hosted code rep
 
 https://youtu.be/QU9c0053UAU?si=JBUux0dEEkhGOCS-
 
+
+
+
+
+# <Saba Begum> Module 3
+
+## Answers:
+
+1. To add a single line comment in Python you have to use the character "#".
+2. To add a single line commment in C++ you have to use "//".
+3. To add a multi-line comment in python you have to use the character "#".
+4. to add a multi-line comment in c++ you have to use "/*..........*/".
+
